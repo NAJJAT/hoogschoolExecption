@@ -47,6 +47,8 @@ public class Main {
         } catch (PersoonHeeftGeenVolmachtException e) {
             System.out.println(e.getMessage());
         }
+       
+
     }
 
 
